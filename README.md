@@ -3,14 +3,40 @@
 <!--
 **prasetyaabayu/PrasetyaaBayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+
+###
+
+<h3 data-importer="text" align="left">My name is Muhammad Pamungkas Prasetya Bayu Ajimand I'm a Information Technology student, from Ngawi city</h3>
+
+###
+
+<h2 data-importer="text" align="left">About me</h2>
+
+###
+
+<h3 data-importer="text" align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning Progamming Fundamental & Web Development<br>🎯 Goals: To master web & game development, build awesome projects, and turn my code into a career.<br>🎲 Fun fact: I like playing game Mobile Legends</h3>
+
+###
+
+<h2 data-importer="text" align="left">I code with</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
+</div>
+
+###
