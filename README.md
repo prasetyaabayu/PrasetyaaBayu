@@ -1,12 +1,5 @@
-## Hi there 👋
-
-<!--
-**prasetyaabayu/PrasetyaaBayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
-
 ###
 
 <h3 data-importer="text" align="left">My name is Muhammad Pamungkas Prasetya Bayu Ajimand I'm a Information Technology student, from Ngawi city</h3>
