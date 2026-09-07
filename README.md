@@ -1,7 +1,7 @@
 
 <h1 data-importer="text" align="left">Hello Guys, Welcome to my account</h1>
 
-<h3 data-importer="text" align="left">My name is Muhammad Pamungkas Prasetya Bayu Aji and I'm a Information Technology student, from Ngawi city</h3>
+<h3 data-importer="text" align="left">My name is Muhammad Pamungkas Prasetya Bayu Aji and I'm a Information Technology student, from Ngawi</h3>
 
 ###
 
